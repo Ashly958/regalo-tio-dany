@@ -66,7 +66,7 @@ export default function HeroSection({ uncleData, onScrollToLetter }) {
         </button>
       </div>
 
-      {/* Quote Banner from Yeison Jimenez */}
+      {/* Quote Banner de la canción */}
       <div className="mt-8 p-4 rounded-2xl glass-card max-w-md mx-auto text-left border-l-4 border-l-amber-400">
         <p className="text-xs text-slate-300 italic leading-relaxed">
           {uncleData.song.quote}
