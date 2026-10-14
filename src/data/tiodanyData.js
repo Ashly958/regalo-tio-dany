@@ -7,12 +7,12 @@ export const uncleData = {
   birthdate: "Hoy",
   subtitle: "¡Guerrero incansable, corazón noble y el gran orgullo de toda nuestra familia!",
   
-  // Canción solicitada: "Por Qué La Envidia" - Yeison Jiménez
+  // Canción solicitada: "Tu Cumpleaños" - Diomedes Díaz
   song: {
-    title: "Por Qué La Envidia",
-    artist: "Yeison Jiménez",
-    audioUrl: "/music/porque-la-envidia.mp4",
-    quote: "«Cuántas noches de rodillas a Dios rogué y le supliqué... Hoy más que nunca Él escucha nuestras oraciones y te levanta en victoria, gran guerrero.»"
+    title: "Tu Cumpleaños",
+    artist: "Diomedes Díaz",
+    audioUrl: "/music/tu-cumpleanos.mp4",
+    quote: "«Ay, el día que tú naciste nacieron todas las flores... ¡Que Dios te bendiga hoy y siempre, nuestro gran guerrero y orgullo de la familia!»"
   },
 
   // Foto destacada para la portada
