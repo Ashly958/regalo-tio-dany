@@ -114,7 +114,7 @@ export default function MusicPlayer({ song }) {
                 ▶ Tocar para poner tu canción
               </p>
               <p className="text-[11px] font-medium text-slate-900 truncate">
-                Yeison Jiménez - Destino Final
+                {song.artist} - {song.title}
               </p>
             </div>
             <Sparkles size={18} className="text-slate-950 shrink-0" />

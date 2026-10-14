@@ -7,12 +7,12 @@ export const uncleData = {
   birthdate: "Hoy",
   subtitle: "¡Guerrero incansable, corazón noble y el gran orgullo de toda nuestra familia!",
   
-  // Canción solicitada: "Destino Final" - Yeison Jiménez & Luis Alfonso
+  // Canción solicitada: "Por Qué La Envidia" - Yeison Jiménez
   song: {
-    title: "Destino Final",
-    artist: "Yeison Jiménez & Luis Alfonso",
-    audioUrl: "/music/destino-final.mp3",
-    quote: "«Porque la vida es un ratico y hay que lucharla con el alma... ¡Hoy estamos contigo, firmes y en victoria!»"
+    title: "Por Qué La Envidia",
+    artist: "Yeison Jiménez",
+    audioUrl: "/music/porque-la-envidia.mp4",
+    quote: "«Cuántas noches de rodillas a Dios rogué y le supliqué... Hoy más que nunca Él escucha nuestras oraciones y te levanta en victoria, gran guerrero.»"
   },
 
   // Foto destacada para la portada
