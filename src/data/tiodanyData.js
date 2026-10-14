@@ -11,7 +11,7 @@ export const uncleData = {
   song: {
     title: "Tu Cumpleaños",
     artist: "Diomedes Díaz",
-    audioUrl: "/music/tu-cumpleanos.mp4",
+    audioUrl: "/music/tu-cumpleanos.mp3",
     quote: "«Ay, el día que tú naciste nacieron todas las flores... ¡Que Dios te bendiga hoy y siempre, nuestro gran guerrero y orgullo de la familia!»"
   },
 
